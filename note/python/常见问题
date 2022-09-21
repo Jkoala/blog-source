@@ -1,0 +1,17 @@
+## pip 包消失问题 升级失败
+
+https://blog.csdn.net/qq_36360253/article/details/122186262
+
+
+
+## 国内镜像安装软件
+
+pip install pyqt5-tools -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+
+## AttributeError: partially initialized module ‘cv2‘ has no attribute ‘gapi_wip_gst_GStreamerPipeline‘
+
+https://blog.csdn.net/weixin_54884881/article/details/126062844
+
+只保留第二个库  删除第一个库

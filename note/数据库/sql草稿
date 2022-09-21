@@ -1,0 +1,4 @@
+
+select @@global.tx_isolation
+
+不能按照案例操作  不然一个一个够搞  还是需要懂原理
