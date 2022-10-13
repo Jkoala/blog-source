@@ -6,9 +6,15 @@
 
 [官方中文文档](https://www.mysqlzh.com/)
 
-## [数据类型大全](https://dev.mysql.com/doc/refman/8.0/en/data-types.html) 
 
 
+## 学习点
+
+### [ 1. 数据类型大全](https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
+
+### 2. 编码 
+
+> 
 
 
 

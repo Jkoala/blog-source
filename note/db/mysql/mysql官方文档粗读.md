@@ -1,0 +1,6 @@
+## 参考
+
+https://dev.mysql.com/doc/refman/8.0/en/data-dictionary-schema.html
+
+
+
