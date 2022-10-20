@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "4417adccc86171cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f24f48a1eb496cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba66c20a1abb5a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/docker/docker 命令大全.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfcaff29bd6140a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/微服务/spring-cloud 学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e8d800c996aaeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/多线程/并发编程 -notion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118da022013c6e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/security/base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bec71f4d9d4e1dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/security/security 权限管理系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6c0ab54b337bfa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/服务器/jenkins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f52cbcf65bfd2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/PC端/electron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d6f5e7964ec3fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/python/turtle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94da39da4a6c169c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc983bf036ee4f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f966bfd98eb1979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92b8d21816906a67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7916c457f4249ef1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5dbf9a627cd09ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "342f916ae1e29f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc340d7b629a1bbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note/python/turtle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07a6f0ba9bbaedda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note/python/turtle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9ea098c256953e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a339eb8d3df8fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note/python/turtle.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6d6f5e7964ec3fdc",
+  "lastOpenFiles": [
+    "note/PC端/electron.md",
+    "note/服务器/jenkins.md",
+    "note/未命名.md",
+    "note/security/security 权限管理系统.md",
+    "note/security/base.md",
+    "note/多线程/并发编程 -notion.md",
+    "note/多线程/并发编程.md",
+    "note/多线程/草稿.md",
+    "note/多线程/volatile.md",
+    "note/消息队列/RocketMQ全景图.md"
+  ]
+}

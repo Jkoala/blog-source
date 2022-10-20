@@ -1,3 +1,5 @@
+
+## 笔记
 binlog mysql服务层面的  redolog 是innoDB特有的  
 
 因为最开始MySQL里并没有InnoDB引擎。MySQL自带的引擎是MyISAM，但是MyISAM没有crash-safe的能力，binlog日志只能用于归档。而InnoDB是另一个公司以插件形式引入MySQL的，既然只依靠binlog是没有crash-safe能力的，所以InnoDB使用另外一套日志系统——也就是redo log来实现crash-safe能力。
@@ -13,3 +15,18 @@ binlog mysql服务层面的  redolog 是innoDB特有的
 执行器调用引擎的提交事务接口，引擎把刚刚写入的redo log改成提交（commit）状态，更新完成。
 
 
+## 学习要求
+哪里不会学习哪里 哪里不会总结哪里
+
+## 学习总结
+
+
+
+## 参考文档
+[Mysql 45讲文档](https://funnylog.gitee.io/mysql45/iframe/)
+[mysql 优质B站视频](https://www.bilibili.com/video/BV1iq4y1u7vj/?vd_source=6df4aa7b31f2694a11d8f97c71a807d8)
+
+
+## 专有名词解释
+**普通索引：**应该只为那些最经常出现在查询条件
+**唯一索引**：它与前面的普通索引类似，不同的就是：索引列的值必须唯一，但允许有空值。如果是组合索引，则列值的组合必须唯一

@@ -6,7 +6,10 @@
 
 [docker  菜鸟教程](https://www.coonote.com/docker/docker-tutorial.html)
 
-
+[docker镜像构建](https://yeasy.gitbook.io/docker_practice/image/other)
+[dockerhub](https://hub.docker.com/)
+[官方英文文档](https://docs.docker.com/search/?q=dockerfile)
+[docker视频](https://www.bilibili.com/video/BV1gr4y1U7CY/?spm_id_from=333.337.search-card.all.click&vd_source=6df4aa7b31f2694a11d8f97c71a807d8)
 
 ## 命令大全
 
