@@ -28,6 +28,14 @@ sudo apt-get install iptables-persistent
 
 export PATH=$PATH:$JAVA_HOME/bin
 
-## dsad
+## 解压
 
 tar -zxvf
+
+## 关闭防火墙
+
+```
+systemctl stop firewalld.service # 停止
+systemctl disable firewalld.service # 禁用防火墙，下次启动也不会开启
+```
+
