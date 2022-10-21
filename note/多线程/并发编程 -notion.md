@@ -323,8 +323,8 @@ CountDownLatch的计数器只能使用一次，而CyclicBarrier的计数器可�
 
 
 # 学习全图
+![](../../图床/thread.png)
 
-![test](https://gitee.com/Jkaolo/pico-go/raw/master/202210210309462.png)
 
 
 # 问题

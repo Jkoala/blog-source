@@ -1,5 +1,8 @@
 {
   "showLineNumber": false,
   "promptDelete": false,
-  "livePreview": true
+  "livePreview": true,
+  "attachmentFolderPath": "图床",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
