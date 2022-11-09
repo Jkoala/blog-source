@@ -1,4 +1,7 @@
 {
-  "accentColor": "",
-  "theme": "moonstone"
+  "accentColor": "#6d5aaa",
+  "theme": "system",
+  "cssTheme": "Dayspring",
+  "nativeMenus": true,
+  "translucency": false
 }

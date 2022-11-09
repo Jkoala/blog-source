@@ -4,5 +4,7 @@
   "livePreview": true,
   "attachmentFolderPath": "图床",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "defaultViewMode": "source",
+  "readableLineLength": true
 }

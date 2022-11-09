@@ -1,6 +1,9 @@
+描述：原Notion 博客学习迁移  Security 学习
 # 授权登陆
 
 ## 参考
+
+[RFC文档](http://www.rfcreader.com/#rfc6749_line230)
 
 [github 参考代码](https://github.com/smltq/spring-boot-demo/blob/master/security-oauth2-auth-code/soac-server/src/main/java/com/easy/securityOauth2AuthCodeServer/config/AuthorizationServerConfig.java)
 

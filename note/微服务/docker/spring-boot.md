@@ -50,3 +50,4 @@ docker build -f DockerFile  -t  test/metabase:1.0.0
 ## 问题
 
 我启动镜像 hello world 8080 主机访问8080 没反应
+
