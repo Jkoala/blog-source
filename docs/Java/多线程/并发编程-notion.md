@@ -1,4 +1,4 @@
-# 参考内容
+## 参考内容
 https://github.com/Wang-Jun-Chao/java-concurrency
 https://github.com/Fadezed/concurrency
 [yontube视频]([https://www.youtube.com/watch?v=TCd8QIS-2KI](https://www.youtube.com/watch?v=mTGdtC9f4EU&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4))
@@ -7,12 +7,13 @@ https://github.com/Fadezed/concurrency
 ![](https://gitee.com/Jkaolo/pico-go/raw/master/202210210256976.png)
 ![](https://gitee.com/Jkaolo/pico-go/raw/master/202210210257873.png)
 
-# 学习笔记
+## 学习笔记
 
-# 学习日志
-## Java 的三种创建方式
+## 学习日志
 
-### 代码
+### Java 的三种创建方式
+
+#### 代码
 
 ```java
 // 创建方式1
@@ -70,7 +71,7 @@ public class MyThreadCall implements Callable<Integer> {
 }
 ```
 
-### 问题
+#### 问题
 
 -   为什么有了继承Thread 还要实现Runnable
   
@@ -81,24 +82,24 @@ public class MyThreadCall implements Callable<Integer> {
     创建线程任务→ 放进线程里面
     
 
-## Java 的内存模型
+### Java 的内存模型
 
-### 参考内容
+#### 参考内容
 
 Java 并发编程的艺术 → Java 的内存模型
 
-### 笔记
+#### 笔记
 
 -   并发编程的两个关键问题
   
     线程之间的同步和通信 通信可以通过**共享内存**或者**消息传递**
     
 
-### 什么叫可见性 什么叫有序性
+#### 什么叫可见性 什么叫有序性
 
 线程修改变量对其他线程可见
 
-### 草稿
+#### 草稿
 
 1.  如果编写多线程程序的Java程序员不理解隐式进行的线程之间通信的工作机制，很可能会遇到各种奇怪的内存可见性问题
   
@@ -125,9 +126,9 @@ Java 并发编程的艺术 → Java 的内存模型
         [happens-before是什么？JMM最最核心的概念，看完你就懂了 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/126275344)
         
 
-## Java 并发编程的基础
+### Java 并发编程的基础
 
-### 代码
+#### 代码
 
 -   优雅的中断代码
   
@@ -292,7 +293,7 @@ Java 并发编程的艺术 → Java 的内存模型
     ```
     
 
-### 问题
+#### 问题
 
 -   Thread.sleep(1000) 的操作
   
@@ -301,16 +302,17 @@ Java 并发编程的艺术 → Java 的内存模型
 -   有了synchronize 为什么还要Lock
   
 
-## Java中的锁
+### Java中的锁
 
 双胞胎锁
 
-## Java并发容器和框架
+### Java并发容器和框架
 
 并发容器 阻塞队列 Join fork 方法
 
-## Java 13个并发原子类
-## Java 并发工具类
+### Java 13个并发原子类
+
+### Java 并发工具类
 
 CyclicBarrier `CountDownLatch`
 
@@ -322,12 +324,14 @@ CountDownLatch的计数器只能使用一次，而CyclicBarrier的计数器可�
 
 
 
-# 学习全图
+## 学习全图
+
 ![](../../图床/thread.png)
 
 
 
-# 问题
+## 问题
+
 synchronized 和 Lock 的区别
 
 Synchronized和Lock比较. Synchronized是关键字，内置语言实现，Lock是接口。. Synchronized在线程发生异常时会自动释放锁，因此不会发生异常死锁。. Lock异常时不会自动释放锁，所以需要在finally中实现释放锁。. Lock是可以中断锁，Synchronized是非中断锁，必须等待线程执行完成释放锁。. Lock可以使用读锁提高多线程读效率
