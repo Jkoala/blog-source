@@ -11,39 +11,24 @@
             "id": "912cd3e238eeef7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/srping web/security/base.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "9d3350d7d5596621",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/srping web/security/spring security 学习.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "0263402ecb7decf0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/srping web/security/base.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -113,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/srping web/security/base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/srping web/security/base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/srping web/security/base.md"
-              }
+              "state": {}
             }
           }
         ],
