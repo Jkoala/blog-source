@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "912cd3e238eeef7b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d3350d7d5596621",
+            "id": "ba7dbb9b91ea3125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/srping 系列/security/token 系列知识.md",
+                "file": "docs/docker/docker 命令大全.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,38 +21,12 @@
             }
           },
           {
-            "id": "eef3dad5df2f11e3",
+            "id": "3ba7b5a69cf72bcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/srping 系列/security/参考文档.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfc738ab76311e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/srping 系列/security/授权服务器.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0263402ecb7decf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/srping 系列/security/参考文档.md",
+                "file": "docs/socket/socket 草稿.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/srping 系列/security/授权服务器.md",
+                "file": "docs/socket/socket 草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/srping 系列/security/授权服务器.md",
+                "file": "docs/socket/socket 草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +133,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "98f2d693b8e422e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/socket/socket 草稿.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -175,17 +151,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cfc738ab76311e8d",
+  "active": "3ba7b5a69cf72bcd",
   "lastOpenFiles": [
-    "docs/srping 系列/security/参考文档.md",
-    "docs/srping 系列/security/授权服务器.md",
-    "docs/srping 系列/security/token 系列知识.md",
-    "docs/srping 系列/security/spring security 架构理解.md",
-    "docs/srping 系列/security/Oauth2 四种授权模式.md",
-    "docs/微服务/spring-cloud/spring-cloud 学习.md",
-    "docs/微服务/spring-cloud/网关集成Oauth2详解.md",
-    "docs/微服务/spring-cloud/网关.md",
-    "note/srping web/security/当前学习工作台.md",
-    "note.md"
+    "docs/docker/docker 命令大全.md",
+    "docs/docker/docker 案例.md",
+    "docs/docker/问题.md",
+    "docs/liunx/常用命令.md",
+    "docs/liunx/yum 命令.md",
+    "docs/liunx/jenkins.md",
+    "docs/docker/spring-boot.md",
+    "docs/index.md",
+    "docs/srping 系列/开发问题详解/mybatis-plus.md",
+    "docs/python/turtle.md"
   ]
 }

@@ -1,3 +1,6 @@
+## 参考文档
+[Mysql 45讲文档](https://funnylog.gitee.io/mysql45/iframe/)
+[mysql 优质B站视频](https://www.bilibili.com/video/BV1iq4y1u7vj/?vd_source=6df4aa7b31f2694a11d8f97c71a807d8)
 
 ## 笔记
 binlog mysql服务层面的  redolog 是innoDB特有的  
@@ -13,18 +16,6 @@ binlog mysql服务层面的  redolog 是innoDB特有的
 执行器生成这个操作的binlog，并把binlog写入磁盘。
 
 执行器调用引擎的提交事务接口，引擎把刚刚写入的redo log改成提交（commit）状态，更新完成。
-
-
-## 学习要求
-哪里不会学习哪里 哪里不会总结哪里
-
-## 学习总结
-
-
-
-## 参考文档
-[Mysql 45讲文档](https://funnylog.gitee.io/mysql45/iframe/)
-[mysql 优质B站视频](https://www.bilibili.com/video/BV1iq4y1u7vj/?vd_source=6df4aa7b31f2694a11d8f97c71a807d8)
 
 
 ## 专有名词解释
