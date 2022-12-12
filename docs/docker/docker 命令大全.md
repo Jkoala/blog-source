@@ -1,3 +1,4 @@
+# s
 ## 参考文档
 
 [视频](https://www.bilibili.com/video/BV1og4y1q7M4?p=16)
@@ -7,24 +8,23 @@
 [官方英文文档](https://docs.docker.com/search/?q=dockerfile)
 [docker视频](https://www.bilibili.com/video/BV1gr4y1U7CY/?spm_id_from=333.337.search-card.all.click&vd_source=6df4aa7b31f2694a11d8f97c71a807d8)
 
+
 ## 命令大全
-
-**1. 执行某个容器**
-   >  docker run -d --name rabbitmq3.7.7 -p 5672:5672   2888deb59dfc
-**2. 镜像操作**
-   > docker rm e00b8e3e3e2e  移除镜像
-3. 容器
-   > docker stop 容器id
-   > docker start 容器id
-   > docker restart 容器id
-4. 启动docker 服务
-   > systemctl enable docker.service
-5. 查看容器的IP https://www.cnblogs.com/xyztank/articles/16595836.html
-> docker inspect container_id
-6. 查看正在运行的容器
-> docker ps
-
-## docker 命令
+### **命令分类**
 ```c
-
+Docker环境信息   info、version
+镜像仓库命令      login、logout、pull、push、search
+镜像管理          build、images、import、load、rmi、save、tag、commit
+容器生命周期管理  create、exec、kill、pause、restart、rm、run、start、stop、unpause
+容器运维操作      attach、export、inspect、port、ps、rename、stats、top、wait、cp、diff、update
+容器资源管理      volume、network
+系统信息日志      events、history、logs
+1.events打印容器的实时系统事件
+2.history 打印出指定镜像的历史版本信息
+3.logs打印容器中进程的运行日志
+```
+### **其他命令**
+```c
+# 启动docker 服务
+systemctl enable docker.service
 ```
