@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "d943d60b3dea0d98",
         "type": "tabs",
         "children": [
           {
             "id": "e5e1a52b206b7580",
+=======
+        "id": "ad0ce8dd0f872416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab69786d45f316b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "docs/Java/加密算法/入门.md",
+=======
+                "file": "docs/开发常见问题/数据库定义.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +98,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "docs/Java/加密算法/入门.md",
+=======
+                "file": "docs/开发常见问题/数据库定义.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "docs/Java/加密算法/入门.md",
+=======
+                "file": "docs/开发常见问题/数据库定义.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "docs/Java/加密算法/入门.md"
+=======
+                "file": "docs/开发常见问题/数据库定义.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -145,9 +169,14 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< Updated upstream
   "active": "e5e1a52b206b7580",
   "lastOpenFiles": [
     "docs/开发常见问题/数据库定义.md",
+=======
+  "active": "1ab69786d45f316b",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "docs/数据库/mysql/mysql编程.md",
     "docs/数据库/mysql/mysql问题大全.md",
     "docs/数据库/mysql/mysql 常用命令.md",
@@ -156,6 +185,11 @@
     "docs/数据库/mysql/mysql-varchar 详解.md",
     "docs/数据库/mysql/mysql详解.md",
     "docs/数据库/mysql/mysql45讲/Info.md",
+<<<<<<< Updated upstream
     "docs/数据库/mysql/mysql45讲/日志.md"
+=======
+    "docs/数据库/mysql/mysql45讲/日志.md",
+    "docs/docker/docker 命令大全.md"
+>>>>>>> Stashed changes
   ]
 }
