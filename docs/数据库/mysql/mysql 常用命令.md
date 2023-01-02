@@ -7,7 +7,6 @@ alter table tablename AUTO_INCREMENT=0
 ## 更改唯一索引
 
 alter table use_info add unique index agd(user_account_id,game_id,daily_date);
-
 alter table user_info add unique key agdkey(user_account_id,game_id,daily_date);
 
 
@@ -31,3 +30,7 @@ ALTER TABLE `test` CHANGE `name` `name` VARCHAR( 10 ) CHARACTER SET utf8 COLLATE
 
 mysql数据库修改数据库编码，字段编码与表编码
 https://blog.51cto.com/woshisap/5652126
+
+
+## 其他
+查看数据库版本：select @@version

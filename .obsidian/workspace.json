@@ -1,52 +1,54 @@
 {
   "main": {
-    "id": "4417adccc86171cd",
+    "id": "403fc3545f91ac94",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "d943d60b3dea0d98",
+        "id": "d61783aabc7f5bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e1a52b206b7580",
-=======
-        "id": "ad0ce8dd0f872416",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ab69786d45f316b",
->>>>>>> Stashed changes
+            "id": "439defe3520703a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "docs/Java/加密算法/入门.md",
-=======
-                "file": "docs/开发常见问题/数据库定义.md",
->>>>>>> Stashed changes
+                "file": "docs/数据库/mysql/mysql 常用命令.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eedfbd43cb6ae6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/数据库/redis/常见问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "94da39da4a6c169c",
+    "id": "c779ab016823ae06",
     "type": "split",
     "children": [
       {
-        "id": "fc983bf036ee4f8d",
+        "id": "988ecdc69cfb38a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0f966bfd98eb1979",
+            "id": "8a1da5f8c8044268",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +58,7 @@
             }
           },
           {
-            "id": "92b8d21816906a67",
+            "id": "0909da0301a3baa8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +73,7 @@
             }
           },
           {
-            "id": "7916c457f4249ef1",
+            "id": "defa54a457d29f55",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -85,24 +87,20 @@
     "width": 300
   },
   "right": {
-    "id": "f5dbf9a627cd09ab",
+    "id": "2b0be3cc5b71cc62",
     "type": "split",
     "children": [
       {
-        "id": "342f916ae1e29f2d",
+        "id": "5d59c7f782cf5c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "dc340d7b629a1bbd",
+            "id": "17deb4b4a7b03122",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "docs/Java/加密算法/入门.md",
-=======
-                "file": "docs/开发常见问题/数据库定义.md",
->>>>>>> Stashed changes
+                "file": "docs/数据库/redis/常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,23 +112,19 @@
             }
           },
           {
-            "id": "07a6f0ba9bbaedda",
+            "id": "d2f59ec285f957ec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "docs/Java/加密算法/入门.md",
-=======
-                "file": "docs/开发常见问题/数据库定义.md",
->>>>>>> Stashed changes
+                "file": "docs/数据库/redis/常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b9ea098c256953e6",
+            "id": "0006a111906487d5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,21 +135,16 @@
             }
           },
           {
-            "id": "12776a82e7eba73f",
+            "id": "62861e551f2ec3a7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "docs/Java/加密算法/入门.md"
-=======
-                "file": "docs/开发常见问题/数据库定义.md"
->>>>>>> Stashed changes
+                "file": "docs/数据库/redis/常见问题.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,27 +158,13 @@
       "command-palette:打开命令面板": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "e5e1a52b206b7580",
+  "active": "eedfbd43cb6ae6dd",
   "lastOpenFiles": [
-    "docs/开发常见问题/数据库定义.md",
-=======
-  "active": "1ab69786d45f316b",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
-    "docs/数据库/mysql/mysql编程.md",
-    "docs/数据库/mysql/mysql问题大全.md",
+    "docs/数据库/redis/redis 官方文档笔记.md",
+    "docs/数据库/redis/常见问题.md",
     "docs/数据库/mysql/mysql 常用命令.md",
-    "docs/数据库/mysql/mysql 索引篇.md",
-    "docs/数据库/mysql/mysql官方文档粗读.md",
-    "docs/数据库/mysql/mysql-varchar 详解.md",
-    "docs/数据库/mysql/mysql详解.md",
-    "docs/数据库/mysql/mysql45讲/Info.md",
-<<<<<<< Updated upstream
-    "docs/数据库/mysql/mysql45讲/日志.md"
-=======
-    "docs/数据库/mysql/mysql45讲/日志.md",
-    "docs/docker/docker 命令大全.md"
->>>>>>> Stashed changes
+    "docs/开发常见问题/实体类.md",
+    "docs/开发常见问题/mybatis 编写.md",
+    "docs/开发常见问题/数据库定义.md"
   ]
 }
