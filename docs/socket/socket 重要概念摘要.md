@@ -14,3 +14,4 @@ socket.io 默认是内存适配器 你可以配置其他适配器，可参考的
 -   the [MongoDB 适配器](https://socket.io/zh-CN/docs/v4/mongo-adapter/)
 -   the [Postgres 适配器](https://socket.io/zh-CN/docs/v4/postgres-adapter/)
 -   the [Cluster 适配器](https://socket.io/zh-CN/docs/v4/cluster-adapter/)
+
