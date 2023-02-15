@@ -7,9 +7,6 @@
 [MyBatis注解（3种类型） (biancheng.net)](http://c.biancheng.net/mybatis/annotation.html)
 
 
-
-
-
 # 对象模板
 
 ## 实体类

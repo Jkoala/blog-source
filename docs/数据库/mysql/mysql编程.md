@@ -2,8 +2,6 @@
 
 https://dev.mysql.com/doc/refman/8.0/en/user-variables.html
 
-
-
 ## 变量
 
 ```sql
