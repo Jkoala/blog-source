@@ -10,13 +10,14 @@
 
 ## 学习点
 
-### [ 1. 数据类型大全](https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
+### [ 数据类型大全](https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
 
-### 2. 编码 
+### 编码 
 
 > 
 
-
+## 处理函数
+分为单行处理函数和多行处理函数 https://www.cnblogs.com/jihuizhen/p/16123822.html
 
 
 
