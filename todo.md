@@ -1,1 +1,1 @@
-es  vue
+每次mkdocs build 建立 然后复制文件到blog 仓库 即可 （复制添加的目录和index 索引文件）
